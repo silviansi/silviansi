@@ -3,7 +3,7 @@
 <!--
 **silviansi/silviansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning about Laravel
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: silviansi24@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+![Top Langs]((https://github.com/silviansi))
