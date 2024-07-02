@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Silvia Nanda 👋</h1>
-
-<!--
-**silviansi/silviansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
+<h3 align="center">I'm a web developer with a passion for creating interactive and user-friendly web applications. Here's a bit about me:</h3>
 
 - 🌱 I’m currently learning about Web Development
 - 💬 Ask me about Laravel
