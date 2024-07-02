@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning about Web Development
 - 💬 Ask me about Laravel
+- 🚀 Projects: Check out my repositories for cool projects!
 - 📫 How to reach me: silviansi24@gmail.com
 
 <a href="https://github.com/silviansi/github-readme-stats">
