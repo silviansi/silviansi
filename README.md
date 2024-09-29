@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Silvia Nanda 👋</h1>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=silviansi-github-profile-readme-creator alt=silviansi /> </p>
 <h3 align="center">I'm a web developer with a passion for creating interactive and user-friendly web applications. Here's a bit about me:</h3>
 
 - 🌱 I’m currently learning about Web Development
