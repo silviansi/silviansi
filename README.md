@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Silvia Nanda</h1>
 <h3 align="center">I'm a web developer with a passion for creating interactive and user-friendly web applications.</h3>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&width=435&lines=Halo,+aku+developer!;Selamat+datang+di+profil+GitHub+ku!)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&width=435&lines=Halo,+aku+developer!;Selamat+datang+di+profil+GitHub+ku!" alt="Typing SVG" />
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=silviansi&label=Profile%20views&color=0e75b6&style=flat" alt="silviansi" /> </p>
 
